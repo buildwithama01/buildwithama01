@@ -25,7 +25,7 @@ I care deeply about writing code that's clean, performant, and actually useful t
 `React Native` `Expo Go`
  
 **Other**
-`Microsoft Office` `CompTIA A+` `Hardware & Software Configuration`
+`AI Automation` `CompTIA A+` `Hardware & Software Configuration`
  
 **Currently Learning**
 `Cyber Security` `Advanced JavaScript`
